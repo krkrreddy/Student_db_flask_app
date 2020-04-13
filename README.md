@@ -8,7 +8,7 @@ This project has 5 modules:
 
 1.student_app is main module from which all other sub modules are called. 
 
-2.db_user module allows to create new user and retrieve user name and password based one of the field as input.
+2.db_user module allows to create new user and retrieve user name and password based on id or user name as input.
 
 3.security module has authenticate and identity functions.
 
